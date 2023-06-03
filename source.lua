@@ -1,4 +1,9 @@
--- insert troll face, memcorruptv2
+-[[
+Funny Lib
+A zenware project
+
+created by happy boy#9496
+]]
 local library = { 
 	flags = { }, 
 	items = { } 
